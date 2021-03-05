@@ -1026,7 +1026,7 @@ class Regulares_y_picos(Scene):
                             parametrización regular, porque no hay forma de que en el "pico" \n
                             la curva tenga una tangente''').scale(0.9)
         t20 = TextMobject('''Ten cuidado, hay curvas regulares con puntos donde parece\n
-                            no haber tangente, revisa el siguiente ejemplo.''')
+                            no haber tangente, revisa el siguiente ejemplo''')
         rapidez = DecimalNumber(
             0,
             num_decimal_places = 2,
